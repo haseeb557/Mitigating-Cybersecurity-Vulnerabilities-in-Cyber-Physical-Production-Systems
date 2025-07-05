@@ -2,10 +2,6 @@
 
 ## A Quality-Oriented Petri Net Framework with Digital Checkpoints
 
-### Authors
-- **Syed Ahmed Haseeb** - GIK Institute, Topi, Pakistan (u2022557@giki.edu.pk)
-- **Muhammad Bilal Aslam** - GIK Institute, Topi, Pakistan (u2022361@giki.edu.pk)
-
 ## Abstract
 
 This research extends the QualSec framework by introducing a novel approach to mitigation strategies for Cyber-Physical Production Systems (CPPSs). The enhanced framework addresses the critical gap between cybersecurity threats and product quality by integrating proactive defense mechanisms called **digital checkpoints** into Quality-Oriented Petri Nets (QOPNs).
